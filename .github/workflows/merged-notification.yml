@@ -1,5 +1,5 @@
 on:
-  pull_request:
+  pull_request:Merge pull request github#325 from github/repo-sync 
     types: ['closed']
 
 jobs:
