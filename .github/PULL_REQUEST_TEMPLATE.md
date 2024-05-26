@@ -1,4 +1,4 @@
-<!--
+Merge pull request github#325 from github/repo-sync 
 HUBBERS BEWARE! THE GITHUB/DOCS REPO IS PUBLIC TO THE ENTIRE INTERNET. OPEN AN ISSUE IN GITHUB/DOCS-CONTENT https://github.com/github/docs-content/issues/new/choose INSTEAD.
 -->
 
